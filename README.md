@@ -1,125 +1,121 @@
+<div align="center">
 
-  
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Gilvan%20Alencar&textBg=false&animation=twinkling)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF9900&center=true&width=500&lines=Always+learning%2C+always+building;Passionate+about+Cloud+%26+Technology;Turning+ideas+into+infrastructure+%E2%98%81%EF%B8%8F;Where+creativity+meets+the+cloud)](https://git.io/typing-svg)
 
-Olá, eu sou o Desenvolvedor 👋
+**Cloud Computing · Brasília, Brasil**
 
-
-  Full Stack Developer | Cloud Solutions Architect | Open Source Contributor
-
-
-
-  
-  
-  
-
+</div>
 
 ---
 
-### 1. Sobre Mim
+## 🚀 Sobre mim
 
+> 🎯 **Objetivo:** Atuar na área de Cloud Computing como **SRE / DevOps**.
 
-Sou um desenvolvedor apaixonado por transformar problemas complexos em soluções digitais elegantes e escaláveis. Com foco em arquitetura de software e performance, atuo no desenvolvimento de aplicações de ponta a ponta, desde a concepção do banco de dados até a interface do usuário final.
-
-
-
-Meu objetivo atual é aprofundar conhecimentos em Sistemas Distribuídos e Inteligência Artificial aplicada, contribuindo para projetos que gerem impacto real na vida das pessoas e na eficiência das empresas. Acredito na cultura Clean Code e na colaboração contínua através do ecossistema Open Source.
-
+Migrando da are de redes e suporte telecom para cloud.  
+Seguindo com estudos e projetops praticos.
 
 ---
 
-### 2. Tecnologias e Habilidades
+## 📁 Portfólio
 
+Prjetos que estou estudando na jornada cloud :
 
-
-
-Categoria
-Ferramentas e Tecnologias
-
-
-
-
-Frontend
-React.js, Next.js, TypeScript, Tailwind CSS, Redux, Vue.js
-
-
-Backend
-Node.js, Python (FastAPI/Django), Go, Java (Spring Boot)
-
-
-Banco de Dados
-PostgreSQL, MongoDB, Redis, MySQL, DynamoDB
-
-
-DevOps & Cloud
-AWS, Docker, Kubernetes, GitHub Actions, Terraform
-
-
-Mobile
-React Native, Flutter
-
-
-
+- [☁️ Portfolio AWS](https://github.com/Gil135)
 
 ---
 
-### 3. Projetos em Destaque
+## ☁️ Cloud & IAC
 
-#### 🚀 Plataforma de E-commerce Escalável
+<div align="center">
 
-Desenvolvimento de uma infraestrutura completa de e-commerce utilizando microserviços. A solução suporta mais de 10.000 requisições por segundo e integra sistemas de pagamento, gestão de estoque em tempo real e recomendações baseadas em IA.
+![EC2](https://img.shields.io/badge/AWS-EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![EBS](https://img.shields.io/badge/AWS-EBS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![S3](https://img.shields.io/badge/AWS-S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![RDS](https://img.shields.io/badge/AWS-RDS-527FFF?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Lambda](https://img.shields.io/badge/AWS-Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+![ELB](https://img.shields.io/badge/AWS-ELB-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white)
+![IAM](https://img.shields.io/badge/AWS-IAM-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white)
+<!-- ![CloudWatch](https://img.shields.io/badge/AWS-CloudWatch-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
+![SNS](https://img.shields.io/badge/AWS-SNS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![CloudFormation](https://img.shields.io/badge/AWS-CloudFormation-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Systems Manager](https://img.shields.io/badge/AWS-Systems_Manager-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Auto Scaling](https://img.shields.io/badge/AWS-Auto_Scaling-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![VPC](https://img.shields.io/badge/AWS-VPC-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![CAF](https://img.shields.io/badge/AWS-CAF-1A9C3E?style=for-the-badge)
+![WAF](https://img.shields.io/badge/AWS-WAF-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white) -->
 
-
-*   **Tecnologias:** Next.js, Go, RabbitMQ, Redis e AWS.
-*   **Link:** [Repositório do Projeto](#)
-
-#### 📊 Dashboard de Análise de Dados Financeiros
-
-Aplicação para visualização e análise de ativos financeiros com atualização em tempo real via WebSockets. Inclui ferramentas de backtesting para estratégias de investimento e exportação de relatórios automatizados.
-
-
-*   **Tecnologias:** React, Python (Pandas/NumPy), PostgreSQL e Docker.
-*   **Link:** [Repositório do Projeto](#)
-
-#### 🔐 Sistema de Autenticação Biométrica
-
-Biblioteca Open Source para integração de autenticação multifator (MFA) com suporte a biometria nativa em dispositivos móveis e navegadores modernos.
-
-
-*   **Tecnologias:** TypeScript, WebAuthn API, Node.js.
-*   **Link:** [Repositório do Projeto](#)
+</div>
 
 ---
 
-### 4. Estatísticas do GitHub
+## 🛠️ Programação
 
+<div align="center">
 
-  
-  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![PHP](https://img.shields.io/badge/PHP-3776AB?style=for-the-badge&logo=php&logoColor=white)
 
-
-
-  
-
+</div>
 
 ---
 
-### 5. Contato e Redes Sociais
+## 📚 Atualmente aprendendo
 
+- ☁️ Serviços principais da AWS e padrões de arquitetura em nuvem
+- 🔐 Gerenciamento de identidade e acesso com **IAM** (usuários, grupos, políticas)
+- 🗄️ Bancos de dados gerenciados com **RDS MySQL** em arquitetura **Multi-AZ**
+- ⚖️ Alta disponibilidade com **Auto Scaling** e **Elastic Load Balancer**
+- 🖥️ Gerenciamento de instâncias com **AWS Systems Manager** (Run Command, Session Manager, Parameter Store)
+<!-- - 🌐 Fundamentos de redes (VPC, sub-redes, roteamento, grupos de segurança)
+- 📋 Cloud Adoption Framework (CAF) e Well-Architected Framework (WAF)
+- ⚡ Arquiteturas serverless e orientadas a eventos (Lambda)
+- 🔧 Git, GitHub e fluxos de controle de versão -->
 
-  
-    
-  
-  
-    
-  
-  
-    
-  
-  
-    
-  
+---
 
+## ⚡ Interesses
 
+- 🏛️ Arquitetura de soluções em nuvem
+- 🤖 Inteligência artificial e modelos de linguagem (LLMs)
+- ⚙️ Automação de infraestrutura
+- 🚀 Terraform, Kubernetes
 
-  Última atualização em 05 de maio de 2026
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Gil135&theme=dark&ring=FF9900&fire=FF9900&currStreakLabel=FF9900&border=FF9900)
+
+</div>
+
+---
+
+## 🏆 Roadmap de Certificações
+
+<div align="center">
+
+| Certificação | Status |
+|---|---|
+| AWS Certified Cloud Practitioner (CLF-C02) | ⬜ Finalizado|
+| AWS Certified Solutions Architect – Associate (SAA-C03) | ⬜ Planejado |
+| AWS Certified Solutions Architect – Professional | ⬜ Planejado |
+
+</div>
+
+---
+
+<div align="center">
+
+**Gilvan ALencar** · Transitioning into Cloud | SRE & DevOps· Brasília Brazil
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gilvan-alencar/)
+[![GitHub](https://img.shields.io/badge/GitHub-FF9900?style=flat&logo=github&logoColor=white)](https://github.com/Gil135)
+
+</div>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=FF9900,232F3E&height=100&section=footer)
