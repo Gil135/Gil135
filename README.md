@@ -23,7 +23,7 @@ Seguindo com estudos e projetops praticos.
 
 Prjetos que estou estudando na jornada cloud :
 
-- [☁️ Portfolio AWS](https://github.com/Gil135)
+- [☁️ Portfolio AWS](https://github.com/Gil135/cloud)
 
 ---
 
