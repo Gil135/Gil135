@@ -102,7 +102,7 @@ Prjetos que estou estudando na jornada cloud :
 | Certificação | Status |
 |---|---|
 | AWS Certified Cloud Practitioner (CLF-C02) | ☑️ Finalizado|
-| AWS Certified Solutions Architect – Associate (SAA-C03) | ⬜ Planejado |
+| AWS Certified Solutions Architect – Associate (SAA-C03) | 🔄 Em andamento |
 | AWS Certified Solutions Architect – Professional | ⬜ Planejado |
 
 </div>
